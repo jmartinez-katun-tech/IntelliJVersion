@@ -12,6 +12,7 @@ import p2papp.GUI.MainFrame;
  * @author Usyario
  * Demo version control
  * Demo version control
+ * Demo cersion control from IntelliJ
  */
 public class P2PApp {
 
