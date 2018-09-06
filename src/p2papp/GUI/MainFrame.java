@@ -12,6 +12,7 @@ import p2papp.NET.WritableGUI;
 /**
  *
  * @author Usyario
+ * my control comment
  */
 public class MainFrame extends javax.swing.JFrame implements WritableGUI{
 
